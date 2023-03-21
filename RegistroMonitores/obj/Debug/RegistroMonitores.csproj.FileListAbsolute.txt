@@ -1,0 +1,11 @@
+C:\Users\pra002\source\repos\RegistroMonitores\bin\Debug\RegistroMonitores.exe.config
+C:\Users\pra002\source\repos\RegistroMonitores\bin\Debug\RegistroMonitores.exe
+C:\Users\pra002\source\repos\RegistroMonitores\bin\Debug\RegistroMonitores.pdb
+C:\Users\pra002\source\repos\RegistroMonitores\obj\Debug\RegistroMonitores.csproj.AssemblyReference.cache
+C:\Users\pra002\source\repos\RegistroMonitores\obj\Debug\RegistroMonitores.csproj.SuggestedBindingRedirects.cache
+C:\Users\pra002\source\repos\RegistroMonitores\obj\Debug\RegistroMonitores.Form1.resources
+C:\Users\pra002\source\repos\RegistroMonitores\obj\Debug\RegistroMonitores.Properties.Resources.resources
+C:\Users\pra002\source\repos\RegistroMonitores\obj\Debug\RegistroMonitores.csproj.GenerateResource.cache
+C:\Users\pra002\source\repos\RegistroMonitores\obj\Debug\RegistroMonitores.csproj.CoreCompileInputs.cache
+C:\Users\pra002\source\repos\RegistroMonitores\obj\Debug\RegistroMonitores.exe
+C:\Users\pra002\source\repos\RegistroMonitores\obj\Debug\RegistroMonitores.pdb
